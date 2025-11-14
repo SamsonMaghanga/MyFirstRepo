@@ -1,0 +1,5 @@
+Brief Introduction About Myself
+
+My name is Maghanga, and I am a Computer Science student passionate about technology and innovation. I enjoy working on software projects and learning new technologies that help me improve my skills.
+
+I am currently building my foundational skills in development and version control, and this repository marks my first step in using GitHub for my academic and personal projects.
