@@ -1,0 +1,1 @@
+Something I’ve learned so far in this course is how to use Git and GitHub to manage my code. I now understand how to create repositories, make commits, work with branches, and open pull requests. This will help me collaborate with others efficiently.
